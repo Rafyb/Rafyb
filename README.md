@@ -4,6 +4,17 @@
 
 🌐 You can also visit my website : https://raphael-bauvin.web.app/ ( last update - early 2020 )
 
+```c
+while(programming)
+{
+    if(coffe == coffee.Empty) {
+        coffee.refill()
+    } else {
+        coffee.drink()
+    }
+}
+```
+
 <!--
 **Rafyb/Rafyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
