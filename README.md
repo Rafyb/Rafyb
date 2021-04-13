@@ -1,6 +1,6 @@
 ### Hello world 👋🤓 
 
-🕹️ As programmer student, I'm working on video game : https://rafyb.itch.io/
+🕹️ As a student programmer, I'm working on video games : https://rafyb.itch.io/
 
 🌐 You can also visit my website : https://raphael-bauvin.web.app/ ( last update - early 2020 )
 
