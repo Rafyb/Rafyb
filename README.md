@@ -2,7 +2,7 @@
 
 🕹️ As a student programmer, I'm working on video games : https://rafyb.itch.io/
 
-🌐 You can also visit my website : https://raphael-bauvin.web.app/ ( last update - early 2020 )
+🌐 You can also visit my website : https://raphael-bauvin.web.app/ ( Work In Progress )
 
 ```c
 while(programming)
