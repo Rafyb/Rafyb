@@ -37,5 +37,6 @@ else throw 'a project is never finished';
 * ComWivMe - *Projet de réseau social dirigé par un porteur de projet externe* - Java, Javascript, SQL
 * [Model3D](https://github.com/Rafyb/Model3D) - *Visionneur de modèle 3D (format PLY)* - Java 
 * [Bastra](https://github.com/Rafyb/Bastra) - *Web Serveur* - C
+* Palette de couleur - *Application de choix de couleur avec comparateur de rendu en gris* - Java
 * Medieval Builder - *JAM : Classroom jam* - Java
 * Math Labyrinth - *Jeu pédagogique* - Java
