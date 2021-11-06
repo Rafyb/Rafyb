@@ -16,8 +16,9 @@ else throw 'a project is never finished';
 #### 2020 - 2022 | Master Video Games - Pole3D
 
 * [LostMyPeer](https://github.com/Rafyb/jam-LostMyPeer) - *JAM : Global Game Jam 2021* - Unity
+* [Blackjack](https://github.com/Rafyb/blackjack_unreal) - *Blackjack game using blueprints* - Unreal
 * [GrosseBebete](https://github.com/Rafyb/jam-GrosseBebete) - *JAM : One-day classroom jam* - Unity
-* [Tetris](https://github.com/Rafyb/Tetris_CPP) - *Tetris game with SFML* - C++
+* [Tetris](https://github.com/Rafyb/Tetris_CPP) - *Tetris game using SFML* - C++
 * [Menu Rocket League](https://github.com/Rafyb/jam-MenuRocketLeague) - *Small school project : reproduction of a game menu* - Unity
 * [Peggle](https://github.com/Rafyb/jam-peggle) - *JAM : One-day classroom jam* - Unity
 * [RemoteGolf](https://github.com/Rafyb/jam-RemoteGolf) - *JAM : One-day classroom jam* - Unity
