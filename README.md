@@ -1,3 +1,5 @@
+# Header
+
 ### Hello world 👋🤓 
 
 🕹️ As a student programmer, I'm working on video games : https://rafyb.itch.io/
@@ -13,16 +15,28 @@ else throw 'a project is never finished';
 
 # Repositories
 
+### Working on
+
+* [Projet-MMO](https://github.com/Rafyb/Projet-MMO) - *An android MMO game* - Unity
+* [PlutonQuest](https://github.com/Rafyb/PlutonQuest) - *An android Match-3 game based on Hades Game* - Unity
+* [My Website](https://github.com/Rafyb/Rafyb.github.io) - *Website* - Javascript, Phaser.js, Vue
+
+
+---
+
 #### 2020 - 2022 | Master Video Games - Pole3D
 
 * [LegoWorld](https://github.com/Rafyb/LegoWorld) - *Procedural world in LEGO* - Unity, Houdini
 * [PuzzleBobble](https://github.com/Rafyb/ctp-PuzzleBobble) - *One-day classroom exam* - Unity
 * [LostMyPeer](https://github.com/Rafyb/jam-LostMyPeer) - *JAM : Global Game Jam 2021* - Unity
 * [Blackjack](https://github.com/Rafyb/blackjack_unreal) - *Blackjack game using blueprints* - Unreal
+* [AperoGameInOnline](https://github.com/Rafyb/AperoGameInOnline) - *A private metaverse with vocal interactions and slides presentations* - Unity
+* [BattleSimulator](https://github.com/Rafyb/ctp-BattleSimulator) - *One-day classroom exam* - Unity
 * [GrosseBebete](https://github.com/Rafyb/jam-GrosseBebete) - *JAM : One-day classroom jam* - Unity
 * [Tetris](https://github.com/Rafyb/Tetris_CPP) - *Tetris game using SFML* - C++
 * [Menu Rocket League](https://github.com/Rafyb/jam-MenuRocketLeague) - *Small school project : reproduction of a game menu* - Unity
 * [Peggle](https://github.com/Rafyb/jam-peggle) - *JAM : One-day classroom jam* - Unity
+* [FermeTsumTsum](https://github.com/Rafyb/ctp-FermeTsumTsum) - *One-day classroom exam* - Unity
 * [RemoteGolf](https://github.com/Rafyb/jam-RemoteGolf) - *JAM : One-day classroom jam* - Unity
 * [Billy's Nightmare](https://github.com/Rafyb/jam-BillysNightmare) - *JAM : LudumDare 47* - Unity
 
