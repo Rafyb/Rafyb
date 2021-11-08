@@ -15,6 +15,8 @@ else throw 'a project is never finished';
 
 #### 2020 - 2022 | Master Video Games - Pole3D
 
+* [LegoWorld](https://github.com/Rafyb/LegoWorld) - *Procedural world in LEGO* - Unity, Houdini
+* [PuzzleBobble](https://github.com/Rafyb/ctp-PuzzleBobble) - *One-day classroom exam* - Unity
 * [LostMyPeer](https://github.com/Rafyb/jam-LostMyPeer) - *JAM : Global Game Jam 2021* - Unity
 * [Blackjack](https://github.com/Rafyb/blackjack_unreal) - *Blackjack game using blueprints* - Unreal
 * [GrosseBebete](https://github.com/Rafyb/jam-GrosseBebete) - *JAM : One-day classroom jam* - Unity
