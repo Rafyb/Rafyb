@@ -9,7 +9,6 @@
 ```js
 
 if(project == unfinished) new Project();
-else throw 'a project is never finished';
 
 ```
 
