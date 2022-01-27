@@ -6,11 +6,6 @@
 
 🌐 You can also visit my website : https://raphael-bauvin.web.app/ ( Work In Progress )
 
-```js
-
-if(project == unfinished) new Project();
-
-```
 
 # Repositories
 
@@ -25,6 +20,8 @@ if(project == unfinished) new Project();
 
 #### 2020 - 2022 | Master Video Games - Pole3D
 
+* [BubbleBobble]() - *Recreating a Bubble Bobble Game with custom physics engine* - Unity
+* [Mini-Golf game with level editor]() - *One-day classroom exam* - Unity
 * [LegoWorld](https://github.com/Rafyb/LegoWorld) - *Procedural world in LEGO* - Unity, Houdini
 * [PuzzleBobble](https://github.com/Rafyb/ctp-PuzzleBobble) - *One-day classroom exam* - Unity
 * [LostMyPeer](https://github.com/Rafyb/jam-LostMyPeer) - *JAM : Global Game Jam 2021* - Unity
