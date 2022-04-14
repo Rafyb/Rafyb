@@ -11,8 +11,8 @@
 
 ### Working on
 
-* [Projet-MMO](https://github.com/Rafyb/Projet-MMO) - *An android MMO game* - Unity
-* [PlutonQuest](https://github.com/Rafyb/PlutonQuest) - *An android Match-3 game based on Hades Game* - Unity
+* [Projet-MMO](https://github.com/Rafyb/Projet-MMO) - *An android MMO game* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [PlutonQuest](https://github.com/Rafyb/PlutonQuest) - *An android Match-3 game based on Hades Game* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [My Website](https://github.com/Rafyb/Rafyb.github.io) - *Website* - Javascript, Phaser.js, Vue
 
 
@@ -20,21 +20,21 @@
 
 #### 2020 - 2022 | Master Video Games - Pole3D
 
-* [BubbleBobble]() - *Recreating a Bubble Bobble Game with custom physics engine* - Unity
-* [Mini-Golf game with level editor]() - *One-day classroom exam* - Unity
-* [LegoWorld](https://github.com/Rafyb/LegoWorld) - *Procedural world in LEGO* - Unity, Houdini
-* [PuzzleBobble](https://github.com/Rafyb/ctp-PuzzleBobble) - *One-day classroom exam* - Unity
-* [LostMyPeer](https://github.com/Rafyb/jam-LostMyPeer) - *JAM : Global Game Jam 2021* - Unity
+* [BubbleBobble]() - *Recreating a Bubble Bobble Game with custom physics engine* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [Mini-Golf game with level editor]() - *One-day classroom exam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [LegoWorld](https://github.com/Rafyb/LegoWorld) - *Procedural world in LEGO* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png), Houdini
+* [PuzzleBobble](https://github.com/Rafyb/ctp-PuzzleBobble) - *One-day classroom exam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [LostMyPeer](https://github.com/Rafyb/jam-LostMyPeer) - *JAM : Global Game Jam 2021* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [Blackjack](https://github.com/Rafyb/blackjack_unreal) - *Blackjack game using blueprints* - Unreal
-* [AperoGameInOnline](https://github.com/Rafyb/AperoGameInOnline) - *A private metaverse with vocal interactions and slides presentations* - Unity
-* [BattleSimulator](https://github.com/Rafyb/ctp-BattleSimulator) - *One-day classroom exam* - Unity
-* [GrosseBebete](https://github.com/Rafyb/jam-GrosseBebete) - *JAM : One-day classroom jam* - Unity
+* [AperoGameInOnline](https://github.com/Rafyb/AperoGameInOnline) - *A private metaverse with vocal interactions and slides presentations* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [BattleSimulator](https://github.com/Rafyb/ctp-BattleSimulator) - *One-day classroom exam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [GrosseBebete](https://github.com/Rafyb/jam-GrosseBebete) - *JAM : One-day classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [Tetris](https://github.com/Rafyb/Tetris_CPP) - *Tetris game using SFML* - C++
-* [Menu Rocket League](https://github.com/Rafyb/jam-MenuRocketLeague) - *Small school project : reproduction of a game menu* - Unity
-* [Peggle](https://github.com/Rafyb/jam-peggle) - *JAM : One-day classroom jam* - Unity
-* [FermeTsumTsum](https://github.com/Rafyb/ctp-FermeTsumTsum) - *One-day classroom exam* - Unity
-* [RemoteGolf](https://github.com/Rafyb/jam-RemoteGolf) - *JAM : One-day classroom jam* - Unity
-* [Billy's Nightmare](https://github.com/Rafyb/jam-BillysNightmare) - *JAM : LudumDare 47* - Unity
+* [Menu Rocket League](https://github.com/Rafyb/jam-MenuRocketLeague) - *Small school project : reproduction of a game menu* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [Peggle](https://github.com/Rafyb/jam-peggle) - *JAM : One-day classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [FermeTsumTsum](https://github.com/Rafyb/ctp-FermeTsumTsum) - *One-day classroom exam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [RemoteGolf](https://github.com/Rafyb/jam-RemoteGolf) - *JAM : One-day classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [Billy's Nightmare](https://github.com/Rafyb/jam-BillysNightmare) - *JAM : LudumDare 47* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 
 #### 2019 - 2020 | Licence Science du Numérique - Université Catholique de Lille
 
