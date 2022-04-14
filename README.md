@@ -13,8 +13,7 @@
 
 * [Projet-MMO](https://github.com/Rafyb/Projet-MMO) - *An android MMO game* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [PlutonQuest](https://github.com/Rafyb/PlutonQuest) - *An android Match-3 game based on Hades Game* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
-* [My Website](https://github.com/Rafyb/Rafyb.github.io) - *Website* - Javascript, Phaser.js, Vue
-
+* [My Website](https://github.com/Rafyb/Rafyb.github.io) - *Website* - ![Javascript](https://github.com/Rafyb/Rafyb/blob/main/js.png), Phaser.js, Vue
 
 ---
 
@@ -38,16 +37,16 @@
 
 #### 2019 - 2020 | Licence Science du Numérique - Université Catholique de Lille
 
-* [Pokejora](https://github.com/Rafyb/Pokejora) - *Site web pokedex* - Javascript, Vue
+* [Pokejora](https://github.com/Rafyb/Pokejora) - *Site web pokedex* - ![Javascript](https://github.com/Rafyb/Rafyb/blob/main/js.png), Vue
 * [ACLAB-2020](https://github.com/Rafyb/ACLAB-2020) - *Résolution de problèmes ICPC* - Python
-* [404-PianoHero](https://github.com/Rafyb/404-PianoHero) - *Création pour la Nuit de l'info de 2019* - Javascript
+* [404-PianoHero](https://github.com/Rafyb/404-PianoHero) - *Création pour la Nuit de l'info de 2019* - ![Javascript](https://github.com/Rafyb/Rafyb/blob/main/js.png)
 * [Gestionnaire de taches](https://github.com/Rafyb/Gestionnaire_taches) - *Planificateur de taches en commande* - C
 * [Coloration de graphes](https://github.com/Rafyb/Coloration_graphes) - *Algo de coloration de graphes* - C
 * [Compression de fichiers](https://github.com/Rafyb/Transformation_de_Fourier) - *Algo de compression de fichiers* - C
 
 #### 2017 - 2019 | DUT Informatique - Université de Lille
 
-* ComWivMe - *Projet de réseau social dirigé par un porteur de projet externe* - Java, Javascript, SQL
+* ComWivMe - *Projet de réseau social dirigé par un porteur de projet externe* - Java, ![Javascript](https://github.com/Rafyb/Rafyb/blob/main/js.png), SQL
 * [Model3D](https://github.com/Rafyb/Model3D) - *Visionneur de modèle 3D (format PLY)* - Java 
 * [Bastra](https://github.com/Rafyb/Bastra) - *Web Serveur* - C
 * MyManagerFootball - *Site de gestion football* - Java, Java Servlet Page, SQL
