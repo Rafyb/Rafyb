@@ -19,8 +19,8 @@
 
 #### 2020 - 2022 | Master Video Games - Pole3D
 
-* [JAM] [PirateClicker](https://github.com/Rafyb/PirateClicker) - *One-day classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
-* [JAM] [LaraCross](https://github.com/Rafyb/Jam_MetroCross) - *One-day classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [JAM] [PirateClicker](https://github.com/Rafyb/PirateClicker) - *Two days classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
+* [JAM] [LaraCross](https://github.com/Rafyb/Jam_MetroCross) - *Two days classroom jam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [BubbleBobble](https://github.com/Rafyb/ctp-Custom2DPhysics) - *Recreating a Bubble Bobble Game with custom physics engine* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [Mini-Golf game with level editor](https://github.com/Rafyb/ctp-MiniGolf) - *One-day classroom exam* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png)
 * [JAM] [Billy's Nightmare VR](https://github.com/Milawy/Billy-s-Nightmare-VR-XPerience) - *Escape game in VR* - ![Unity](https://github.com/Rafyb/Rafyb/blob/main/unity.png) 
